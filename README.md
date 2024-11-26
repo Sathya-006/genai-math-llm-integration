@@ -1,20 +1,23 @@
-## Integration of a Mathematical Calulations with a Chat Completion System using LLM Function-Calling
+## Ex:1 Integration of a Mathematical Calulations with a Chat Completion System using LLM Function-Calling
 
-### AIM:
+# AIM:
 To design and implement a Python function for calculating the volume of a cylinder,  
 integrate it with a chat completion system utilizing the function-calling feature of a large language model (LLM).
 
-### PROBLEM STATEMENT:
+## PROBLEM STATEMENT:
 Design and implement a system where a user can input dimensions of a cylinder (radius and height),  
 and the system calculates its volume by invoking a Python function using the function-calling capabilities of an LLM.
 
-### DESIGN STEPS:
+
+## DESIGN STEPS:
 
 1. Import necessary libraries, including OpenAI for LLM integration and math for mathematical operations.
 2. Define a Python function to calculate the volume of a cylinder based on its radius and height.
 3. Integrate the function into an LLM-based chat completion system with function-calling capabilities.
 
-### PROGRAM:
+
+
+## PROGRAM:
 
 ```
 import openai
@@ -54,12 +57,8 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
-### OUTPUT:
-
-![image](https://github.com/user-attachments/assets/55318a28-4d98-4338-8d4f-d866edb3318b)
-
-### RESULT:
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/dcad45c2-3a5e-4c77-ba9e-28db3b68e743)
+## RESULT:
 Hence,the python program to design and implement a Python function for calculating the volume of a cylinder,  
 integrating it with a chat completion system utilizing the function-calling feature of a large language model (LLM) is written successfully and executed.
-
